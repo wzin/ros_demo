@@ -1,0 +1,5 @@
+<launch>
+
+  <node name="rosbridge" pkg="rosbridge_server" type="rosbridge_websocket.py" />
+
+</launch>
