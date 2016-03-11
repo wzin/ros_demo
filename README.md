@@ -37,3 +37,8 @@ then run it:
 
 Point your browser to http://127.0.0.1:8008/basic/a.html and open
 another browser with with this URL http://127.0.0.1:8008/basic/b.html
+
+# Authors
+
+Most of the demo code was developed by Matt Vollrath <matt@endpoint.com> and
+Jacob Minshall <jacob@endpoint.com>
